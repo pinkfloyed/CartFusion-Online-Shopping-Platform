@@ -44,7 +44,7 @@ CartFusion is a modern, full-featured e-commerce web platform designed to provid
 |----------|--------------|
 | Frontend | Next.js (App Router), React, Tailwind CSS |
 | Backend  | Next.js API Routes |
-| Database | Prisma ORM + PostgreSQL |
+| Database | Prisma ORM + MySQL |
 | Auth     | NextAuth.js (Credentials) |
 | State    | Zustand |
 | Payment  | Cash on Delivery (COD) |
@@ -357,7 +357,7 @@ CartFusion currently supports **Cash on Delivery** as the primary payment method
 
 ## 📜 License
 
-- This project is licensed under the MIT License.
+- This project is licensed under the  Apache-2.0 license.
 ---
 
 ## 👩‍💻 Author
