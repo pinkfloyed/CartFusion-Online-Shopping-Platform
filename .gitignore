@@ -19,6 +19,7 @@
 
 # production
 /build
+/public
 
 # misc
 .DS_Store
@@ -39,3 +40,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local npm package installations
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
